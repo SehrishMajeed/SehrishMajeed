@@ -105,6 +105,7 @@ sehrish = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SehrishMajeed&theme=github-compact&hide_border=true" alt="Sehrish's GitHub activity graph" />
 </p>
 
+<!--
 ### 🐍 Contributions
 
 <p align="center">
@@ -114,6 +115,7 @@ sehrish = {
     <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/SehrishMajeed/SehrishMajeed/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
+-->
 
 <br>
 
