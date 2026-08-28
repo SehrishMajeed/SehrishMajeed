@@ -3,10 +3,7 @@
 # 👋 Hi, I'm Sehrish
 
 <a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1200&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub!;Computer+Science+Student;Exploring+Agentic+AI;Learning+by+building+real+projects"
-    alt="Typing introduction"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1200&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub!;Computer+Science+Student;Exploring+Agentic+AI;Learning+by+building+real+projects" alt="Typing introduction" />
 </a>
 
 <p>
@@ -101,17 +98,11 @@ sehrish = {
 ### 📊 GitHub Contribution Summary
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=SehrishMajeed&theme=dark&hide_border=true"
-    alt="Sehrish's GitHub streak"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SehrishMajeed&theme=dark&hide_border=true" alt="Sehrish's GitHub streak" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SehrishMajeed&theme=github-compact&hide_border=true"
-    alt="Sehrish's GitHub activity graph"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SehrishMajeed&theme=github-compact&hide_border=true" alt="Sehrish's GitHub activity graph" />
 </p>
 
 ### 🐍 Contributions
