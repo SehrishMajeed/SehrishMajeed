@@ -12,12 +12,8 @@
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/sehrishmajeed">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/SehrishMajeed">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/sehrishmajeed"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/SehrishMajeed"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=SehrishMajeed&label=Profile%20Views&style=flat-square" />
 </p>
 
@@ -101,9 +97,6 @@ sehrish = {
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SehrishMajeed&theme=dark&hide_border=true" alt="Sehrish's GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SehrishMajeed&theme=github-compact&hide_border=true" alt="Sehrish's GitHub activity graph" />
-</p>
 
 <!--
 ### 🐍 Contributions
